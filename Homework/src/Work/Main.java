@@ -2,7 +2,7 @@ package Work;
 
 public class Main {
     public static void main(String[] args) {
-        //Excerise 1
+        //Exercise 1
 
         String name = "temo";
         int number_1 = 23;
@@ -16,7 +16,7 @@ public class Main {
         System.out.println(bln_1);
         System.out.println(chr_1);
 
-        //Excerise 2
+        //Exercise 2
 
         int a = 32;
         int b = 12;
@@ -27,7 +27,7 @@ public class Main {
         System.out.println(a / b);
         System.out.println(a % b);
 
-        //Excerise 3
+        //Exercise 3
 
         int x = 20;
 
@@ -35,7 +35,7 @@ public class Main {
         System.out.println(x < 7 || x > 13);
         System.out.println(!(x > 10 && x < 30));
 
-        //Excerise 4
+        //Exercise 4
 
         int dateOfBirth = 2001;
         int currentYear = 2021;
